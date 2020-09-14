@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm **Jakub Stankowski**, passionate and happy programmer. In love with JavaScript & .NET and its community.
+I'm **Jakub Stankowski**, passionate and happy programmer. In love with **JavaScript & .NET** and its community.
 
 :mailbox: Reach me out!
 
