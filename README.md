@@ -30,4 +30,4 @@ I'm **Jakub Stankowski**, passionate and happy programmer. In love with **JavaSc
 
 #### Articles & Videos
  - 2020:
-    - [Praca zdalna nie dla każdego - Bulldogjob.pl [PL]](#https://bulldogjob.pl/news/1312-praca-zdalna-nie-dla-kazdego)
+    - [Praca zdalna nie dla każdego - Bulldogjob.pl [PL]](https://bulldogjob.pl/news/1312-praca-zdalna-nie-dla-kazdego)
