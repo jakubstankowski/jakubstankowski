@@ -20,10 +20,6 @@ I'm **Jakub Stankowski**, passionate and happy programmer. In love with **JavaSc
 #### Business 
 - :email: jakubstankowski@protonmail.com
 
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jakubstankowski.jakubstankowski)
-
 #### Github Stats
 
 ![Jakubstankowski's github stats](https://github-readme-stats.vercel.app/api?username=jakubstankowski&count_private=true&theme=tokyonight&hide=contribs,prs)
