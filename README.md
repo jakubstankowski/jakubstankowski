@@ -20,10 +20,6 @@ I'm **Jakub Stankowski**, passionate and happy programmer. In love with **JavaSc
 #### Business 
 - :email: jakubstankowski@protonmail.com
 
-#### Github Stats
-
-![Jakubstankowski's github stats](https://github-readme-stats.vercel.app/api?username=jakubstankowski&count_private=true&theme=tokyonight&hide=contribs,prs)
-
 #### Articles & Videos
  - 2020:
     - [Praca zdalna nie dla każdego - Bulldogjob.pl [PL]](https://bulldogjob.pl/news/1312-praca-zdalna-nie-dla-kazdego)
