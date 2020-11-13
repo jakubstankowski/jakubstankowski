@@ -9,7 +9,6 @@ I'm **Jakub Stankowski**, passionate and happy programmer. In love with **JavaSc
 - 🔭 I’m currently working on Quasiris Search Cloud (SPA application where its possible configure the basic relevance of your search results)
 - 🌱 I’m currently learning .NET Core
 - 💬 Ask me about anything :)
-- 📫 How to reach me: jakubstankowski@protonmail.com
 
 #### Top Technologies
 
