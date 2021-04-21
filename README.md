@@ -14,7 +14,7 @@ I'm **Jakub Stankowski**, passionate and happy programmer. In love with **JavaSc
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![.NET Badge](https://img.shields.io/badge/-.NET-512bd4?style=for-the-badge&labelColor=black&logo=.net&logoColor=FFFFFF)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Vue.js Badge](https://img.shields.io/badge/-Vue.js-42b983?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=#42b983)](#) [![Angular.js Badge](https://img.shields.io/badge/-Angular-b52e32?style=for-the-badge&labelColor=black&logo=angular&logoColor=b52e32)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![.NET Badge](https://img.shields.io/badge/-.NET-512bd4?style=for-the-badge&labelColor=black&logo=.net&logoColor=FFFFFF)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Vue.js Badge](https://img.shields.io/badge/-Vue.js-42b983?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=#42b983)](#) [![React.js Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 
 #### Business 
 - :email: jakubstankowski@protonmail.com
