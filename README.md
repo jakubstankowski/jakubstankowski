@@ -5,11 +5,6 @@ I'm **Jakub Stankowski**, passionate and happy programmer. In love with **JavaSc
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jakub-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-stankowski/) [![Mail Badge](https://img.shields.io/badge/-Jakub-000000?style=flat&labelColor=000000&logo=protonmail&logoColor=white)](mailto:jakubstankowski@protonmail.com)
 
-
-- 🔭 I’m currently working on Crypter.dev is a free, open-source web application that makes end-to-end encryption easy and approachable
-- 🌱 I’m currently learning .NET Core
-- 💬 Ask me about anything :)
-
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
