@@ -9,7 +9,7 @@ I'm **Jakub Stankowski**, passionate and happy programmer. In love with **JavaSc
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![.NET Badge](https://img.shields.io/badge/-.NET-512bd4?style=for-the-badge&labelColor=black&logo=.net&logoColor=FFFFFF)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Vue.js Badge](https://img.shields.io/badge/-Vue.js-42b983?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=#42b983)](#) [![React.js Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) [![.NET Badge](https://img.shields.io/badge/-.NET-512bd4?style=for-the-badge&labelColor=black&logo=.net&logoColor=FFFFFF)](#)  [![Vue.js Badge](https://img.shields.io/badge/-Vue.js-42b983?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=#42b983)](#) [![Angular.js Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)
 
 #### Business 
 - :email: jakubstankowski@protonmail.com
@@ -17,3 +17,5 @@ I'm **Jakub Stankowski**, passionate and happy programmer. In love with **JavaSc
 #### Articles & Videos
  - 2020:
     - [Praca zdalna nie dla każdego - Bulldogjob.pl [PL]](https://bulldogjob.pl/news/1312-praca-zdalna-nie-dla-kazdego)
+- 2024:
+  - [#1 Startup vs. dojrzała technologiczna firma: jak to wygląda od zaplecza | ExpertSender Podcast [PL]](https://www.youtube.com/watch?v=ZPV6KO20-Ok)
