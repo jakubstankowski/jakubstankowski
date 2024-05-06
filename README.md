@@ -19,3 +19,4 @@ I'm **Jakub Stankowski**, passionate and happy programmer. In love with **JavaSc
     - [Praca zdalna nie dla każdego - Bulldogjob.pl [PL]](https://bulldogjob.pl/news/1312-praca-zdalna-nie-dla-kazdego)
 - 2024:
   - [#1 Startup vs. dojrzała technologiczna firma: jak to wygląda od zaplecza | ExpertSender Podcast [PL]](https://www.youtube.com/watch?v=ZPV6KO20-Ok)
+  - [#2 Tajemnice awansu. Od developera do lidera | ExpertSender Podcast [PL]](https://www.youtube.com/watch?v=3Jk5LDrI9Yc)
