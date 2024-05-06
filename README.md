@@ -3,7 +3,7 @@ I'm **Jakub Stankowski**, passionate and happy programmer. In love with **JavaSc
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jakub-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-stankowski/) [![Mail Badge](https://img.shields.io/badge/-Jakub-000000?style=flat&labelColor=000000&logo=protonmail&logoColor=white)(mailto:jakubstankowski@protonmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Jakub-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-stankowski/) [![Mail Badge](https://img.shields.io/badge/-Jakub-000000?style=flat&labelColor=000000&logo=protonmail&logoColor=white)](mailto:jakubstankowski@protonmail.com)
 
 #### Top Technologies
 
