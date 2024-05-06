@@ -9,7 +9,7 @@ I'm **Jakub Stankowski**, passionate and happy programmer. In love with **JavaSc
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) [![.NET Badge](https://img.shields.io/badge/-.NET-512bd4?style=for-the-badge&labelColor=black&logo=.net&logoColor=FFFFFF)](#)  [![Vue.js Badge](https://img.shields.io/badge/-Vue.js-42b983?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=#42b983)](#) [![Angular.js Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#) [![.NET Badge](https://img.shields.io/badge/-.NET-512bd4?style=for-the-badge&labelColor=black&logo=.net&logoColor=FFFFFF)](#)  [![Vue.js Badge](https://img.shields.io/badge/-Vue.js-42b983?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=#42b983)](#) [![Angular.js Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)
 
 #### Business 
 - :email: jakubstankowski@protonmail.com
